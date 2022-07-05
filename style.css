@@ -1,0 +1,87 @@
+header {
+  background: url("coffebg.jpg");
+  background-size: 100%;
+}
+
+header nav {
+  font-family: arial;
+  position: absolute;
+  top: 5%;
+  right: 20%;
+}
+
+header nav li {
+  display: inline;
+  font-size: 23px;
+  font-weight:bold;
+  text-transform: uppercase;
+  color: white;
+  margin-right: 40px;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+}
+
+#caixa {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin
+  padding: 20px;
+  background-color: #F7F7F7;
+}
+
+.titulocafes {
+  font-family: arial;
+  padding: 20px;
+  margin-left: 200px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+main ul {
+  padding:20px;
+  margin-left: 15%;
+}
+
+main ul li {
+  display: inline;
+}
+
+main ul li img {
+  width:250px;
+}
+
+.sacocafe1:hover {
+  background: url("sacocafe1hover.png");
+}
+
+.sacocafe2:hover {
+  background: url("sacocafe2hover.png");
+}
+
+.sacocafe3:hover {
+  background: url("sacocafe3hover.png");
+}
+
+.sacocafe4:hover {
+  background: url("sacocafe4hover.png");
+}
+
+footer {
+  padding: 30px;
+  background: lightgrey;
+  text-align: center;
+}
+
+footer img {
+  height: 90px;
+  position: relative;
+}
+
+.copyright {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 18px;
+}
