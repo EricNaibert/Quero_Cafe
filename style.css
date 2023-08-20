@@ -1,5 +1,5 @@
 header {
-  background: url("coffebg.jpg");
+  background: url("images/coffebg.jpg");
   background-size: 100%;
 }
 
@@ -24,10 +24,9 @@ header nav li {
   margin: auto;
 }
 
-#caixa {
+#container {
   margin-top: 30px;
   margin-bottom: 30px;
-  margin
   padding: 20px;
   background-color: #F7F7F7;
 }
@@ -54,19 +53,19 @@ main ul li img {
 }
 
 .sacocafe1:hover {
-  background: url("sacocafe1hover.png");
+  background: url("images/sacoscafe/sacocafe1hover.png");
 }
 
 .sacocafe2:hover {
-  background: url("sacocafe2hover.png");
+  background: url("images/sacoscafe/sacocafe2hover.png");
 }
 
 .sacocafe3:hover {
-  background: url("sacocafe3hover.png");
+  background: url("images/sacoscafe/sacocafe3hover.png");
 }
 
 .sacocafe4:hover {
-  background: url("sacocafe4hover.png");
+  background: url("images/sacoscafe/sacocafe4hover.png");
 }
 
 footer {
